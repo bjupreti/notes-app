@@ -32,7 +32,7 @@ You can get help on how to use the application by using `node app.js --help` com
 <hr />
 
 
-###For examples:
+### For examples:
 * To add note:
 ```
 node app.js add --title="Bucket List" --body="CSM, CSPO certification"
